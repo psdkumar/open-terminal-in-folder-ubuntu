@@ -5,9 +5,7 @@ Steps for opening terminal in any folder automatically
 
 * Open the terminal.
 * Install **dconf tools** using the following command.
-  ```
-  sudo apt-get install dconf-tools nautilus-open-terminal
-  ```
+  ```  sudo apt-get install dconf-tools nautilus-open-terminal  ```
   
 * Then, run **dconf editor** by using the following command.
 
