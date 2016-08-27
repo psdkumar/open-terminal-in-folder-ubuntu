@@ -1,7 +1,7 @@
 # open-terminal-in-folder-ubuntu
 Steps for opening terminal in any folder automatically
 
-**Reference** : [Keyboard shortcut for “open a terminal here”]         (http://askubuntu.com/questions/117452/how-do-you-add-open-in-terminal-to-the-right-click-mouse-menu-for-folders-dire)
+**Reference** : [Keyboard shortcut for “open a terminal here”]         (http://askubuntu.com/questions/68078/keyboard-shortcut-for-open-a-terminal-here)
 
 ## Steps :
 
