@@ -7,6 +7,7 @@ Steps for opening terminal in any folder automatically
 * Install **dconf tools** using the following command.
 
   > sudo apt-get install dconf-tools nautilus-open-terminal
+  
 * Then, run **dconf editor** by using the following command.
 
   > dconf-editor
@@ -15,3 +16,4 @@ Steps for opening terminal in any folder automatically
 
   > nautilus -q
 * Now, you can see **Open in Termianl** option by right clicking in any folder.
+* Reference : [Keyboard shortcut for “open a terminal here”]         (http://askubuntu.com/questions/117452/how-do-you-add-open-in-terminal-to-the-right-click-mouse-menu-for-folders-dire)
